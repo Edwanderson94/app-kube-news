@@ -122,5 +122,3 @@ O projeto utiliza um único modelo `Post` com os seguintes campos:
 | summary | String | Resumo da notícia (limite: 50 caracteres) |
 | content | String | Conteúdo completo (limite: 2000 caracteres) |
 | publishDate | Date | Data de publicação |
-
-
